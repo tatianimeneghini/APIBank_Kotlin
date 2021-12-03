@@ -20,4 +20,5 @@ O curso utiliza como construtor o Maeven, porém, optei por utilizar o Gradle.
 [X] Aula 6: Implementando Segurança com Spring Security  
 [X] Aula 7: Deployando uma aplicação Spring Boot no Heroku  
 
-*Aula feita mas sem resolução para gerar a documentação.
+## Swagger
+Para acessar a documentação da API, basta acessar o link: `http://localhost:8080/swagger-ui.html`
